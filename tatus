@@ -1,0 +1,19 @@
+[33mcommit a3e23149e9a9ffa8fec855b2fb5204d35768dd66[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Emily Masters <mastersemily518@gmail.com>
+Date:   Sun Nov 10 22:03:53 2024 -0600
+
+    Added nav bar, some pages, and some basic bio info
+
+[33mcommit f94c1ebbd7c1280d7a7baf2b2fd2d4162d117587[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: emilyem555 <mastersemily518@gmail.com>
+Date:   Sun Nov 10 20:42:45 2024 -0600
+
+    Create README.md
+    
+    Added the bare bones of the README
+
+[33mcommit d8d819074e7127a9bc7319516304b23632479b34[m
+Author: emilyem555 <mastersemily518@gmail.com>
+Date:   Sun Nov 10 20:38:40 2024 -0600
+
+    Create index.html
