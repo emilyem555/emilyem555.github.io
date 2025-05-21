@@ -68,6 +68,7 @@ head {
   font-weight: bold;
   box-sizing: content-box;
   width: 9%;
+  height: 22px;
 }
 
 .topnav a:hover {
@@ -79,3 +80,15 @@ head {
   background-color: #49006b;
   color: white;
 }
+
+#linkin {
+  height: 25px;
+  width: 25px;
+  align-self: baseline;
+}
+
+/* 
+.linkedin {
+  float: right;
+  width: 4%;
+} */
