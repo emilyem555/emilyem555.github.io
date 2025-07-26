@@ -8,6 +8,7 @@ html {
     background-image: linear-gradient(to bottom, transparent ,rgba(99, 99, 99, 0.153) , rgb(0, 0, 0)), url("ForWebsite.jpg");
     background-size:cover; */
 }
+
 /* .background {
   background-image: linear-gradient(to bottom, transparent ,rgba(99, 99, 99, 0.153) , rgb(0, 0, 0)), url("ForWebsite.jpg");
   background-size: cover;
@@ -16,14 +17,15 @@ html {
   background-color: #000000;
   margin: 0px;
 } */
-body {
-  background-image:  url("ForWebsite.jpg");
+
+.gradient {
+  /* background-image:  url("ForWebsite.jpg"); */
   background-size: cover;
   background-repeat: no-repeat;
   /* background-position:bottom; */
   background-color: #000000;
   margin: 0px;
-  /* background-image :  linear-gradient(transparent, black),url("ForWebsite.jpg"); */
+  background-image :  linear-gradient(transparent, black),url("ForWebsite.jpg");
   /* width: 100%;
   height: 280px; */
   /* background-clip: initial; */
@@ -42,10 +44,26 @@ head {
   /* margin: 100px; */
 }
 .me {
-  color: #2e0044;
+  color: #000000;
   text-align: left;
   margin: 100px;
   font-size:xx-large;
+}
+.exp{
+  color: #000000;
+  text-align: left;
+}
+
+.exph3 {
+  color: #49006b;
+}
+
+.expLater {
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position:bottom; */
+  background-color: #4d4d4d;
+  margin: 0px;
 }
 /* h1 {
   margin-bottom: 0%;
@@ -86,7 +104,23 @@ head {
   width: 25px;
   align-self: baseline;
 }
-
+#email {
+  margin-top: 0%;
+  color:white;
+  height: 125%;
+  width: 90%;
+  align-self: baseline;
+}
+.bodyOther {
+  background-color: #4d4d4d;
+  color: #000000;
+  /* background-image:  url("ForWebsite.jpg"); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position:bottom; */
+  /* background-color: #000000; */
+  margin: 0px;
+}
 /* 
 .linkedin {
   float: right;
