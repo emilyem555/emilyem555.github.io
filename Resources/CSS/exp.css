@@ -1,0 +1,16 @@
+.exp{
+  color: #000000;
+  text-align: left;
+}
+
+.exph3 {
+  color: #49006b;
+}
+
+.expLater {
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position:bottom; */
+  background-color: #4d4d4d;
+  margin: 0px;
+}

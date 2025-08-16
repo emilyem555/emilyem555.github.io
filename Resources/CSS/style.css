@@ -49,78 +49,10 @@ head {
   margin: 100px;
   font-size:xx-large;
 }
-.exp{
-  color: #000000;
-  text-align: left;
-}
-
-.exph3 {
-  color: #49006b;
-}
-
-.expLater {
-  background-size: cover;
-  background-repeat: no-repeat;
-  /* background-position:bottom; */
-  background-color: #4d4d4d;
-  margin: 0px;
-}
 /* h1 {
   margin-bottom: 0%;
 } */
-.topnav {
-  position: sticky;
-  top: 0;
-  overflow: hidden;
-  background-color: #000000;
-}
 
-.topnav a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-  font-weight: bold;
-  box-sizing: content-box;
-  width: 9%;
-  height: 22px;
-}
-
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.topnav a.active {
-  background-color: #49006b;
-  color: white;
-}
-
-#linkin {
-  height: 25px;
-  width: 25px;
-  align-self: baseline;
-}
-#email {
-  margin-top: 0%;
-  color:white;
-  height: 125%;
-  width: 90%;
-  align-self: baseline;
-}
-.bodyOther {
-  background-color: #4d4d4d;
-  color: #000000;
-  /* background-image:  url("ForWebsite.jpg"); */
-  background-size: cover;
-  background-repeat: no-repeat;
-  /* background-position:bottom; */
-  /* background-color: #000000; */
-  margin: 0px;
-}
 /* 
 .linkedin {
   float: right;
