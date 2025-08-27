@@ -3,6 +3,7 @@
   top: 0;
   overflow: hidden;
   background-color: #000000;
+  text-transform: uppercase;
 }
 
 .topnav a {
@@ -25,7 +26,7 @@
 }
 
 .topnav a.active {
-  background-color: #49006b;
+  background-color: #002e33;
   color: white;
 }
 

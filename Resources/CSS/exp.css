@@ -3,14 +3,48 @@
   text-align: left;
 }
 
-.exph3 {
+/* .exph3 {
   color: #49006b;
-}
+} */
+ #aboutDiv {
+    
+ }
 
 .expLater {
   background-size: cover;
   background-repeat: no-repeat;
   /* background-position:bottom; */
-  background-color: #4d4d4d;
+  background-color: #807f7f;
   margin: 0px;
+}
+h1 {
+    color: #002e33;
+    text-transform: uppercase;
+    margin-left: 75px; 
+    margin-top:40px;
+}
+p, td {
+    margin-left:50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 18px;
+}
+td{
+    text-align: center;
+}
+
+h3, th {
+    margin-left: 25px;
+    color: #004862;
+    text-transform: uppercase;
+    font-size: 22px;
+}
+table {
+    padding: 25px;
+}
+
+#sea {
+    width:60%;
+    position:relative;
+    margin-top: -20px;
 }
