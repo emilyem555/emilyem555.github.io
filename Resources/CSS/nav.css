@@ -35,6 +35,11 @@
   width: 25px;
   align-self: baseline;
 }
+#github {
+  height: 25px;
+  width: 25px;
+  align-self: baseline;
+}
 #email {
   margin-top: 0%;
   color:white;
