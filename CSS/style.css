@@ -1,0 +1,40 @@
+html {
+  text-size-adjust: auto;
+  margin: 0px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-bottom: auto;
+}
+
+
+.gradient {
+  /* background-image:  url("ForWebsite.jpg"); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position:bottom; */
+  background-color: #000000;
+  margin: 0px;
+  background-image : linear-gradient(transparent, rgb(24, 24, 24)),url("../Resources/cover_pic.png");
+  /* background-image:url("../Resources/cover_pic.png"); */
+}
+
+.me {
+  display: flex;
+  font-size:xx-large;
+  justify-content: end;
+  align-items: center;
+  padding-top:150px;
+}
+
+.me h1{
+  /* text-align: center; */
+  color: #000000;
+}
+
+.me h2 {
+  /* text-align: right; */
+  padding-left: 400px;
+  padding-right: 260px;
+  padding-top: 30px;
+  font-size: x-large;
+  color: #002e33;
+}

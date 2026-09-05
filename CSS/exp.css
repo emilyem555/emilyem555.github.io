@@ -1,0 +1,79 @@
+.exp{
+  color: #000000;
+  text-align: left;
+}
+
+ img {
+    border-radius: 10px;
+    box-shadow: rgba(47, 47, 47, 0.288) 0px 7px 15px 0px;
+}
+
+#job-card {
+    background-color: #535353;
+    border-radius: 10px;
+     margin:0px 50px 35px;
+    box-shadow: rgba(47, 47, 47, 0.288) 7px 10px 25px 0px;
+
+}
+
+#rso-card {
+    background-color: #535353;
+    border-radius: 10px;
+    margin:0px 50px 35px;
+    box-shadow: rgba(47, 47, 47, 0.288) 7px 10px 25px 0px;
+
+}
+
+#rso-card th {
+    color: #b2b1b1;
+}
+
+#rso-card p {
+    padding: 5px;
+}
+.expLater {
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position:bottom; */
+  background-color: #b2b1b1;
+  margin: 0px;
+}
+h1 {
+    color: #002e33;
+    text-transform: uppercase;
+    margin-left: 75px; 
+    margin-top:40px;
+}
+p, td {
+    margin-left:50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 18px;
+}
+td{
+    text-align: center;
+}
+
+#job-card h3 {
+    color: #b2b1b1;
+}
+h2 {
+   color: #003346;
+    text-transform: uppercase; 
+    font-size: 25px;
+}
+h3, th {
+    margin-left: 25px;
+    color: #004862;
+    text-transform: uppercase;
+    font-size: 22px;
+}
+table {
+    padding: 25px;
+}
+
+#sea {
+    width:60%;
+    position:relative;
+    margin-top: -20px;
+}
